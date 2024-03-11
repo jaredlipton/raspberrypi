@@ -1,0 +1,4 @@
+logs.netflix.com
+spectrum.s3.amazonaws.com
+sastv.samsungqbe.com
+_xmpp-client._tcp.scs.samsungqbe.com
