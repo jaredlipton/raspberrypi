@@ -82,7 +82,7 @@ freecontent.bid
 candid.zone
 lewd.ninja
 
-#new
+#via obfusgated.com
 api.honeybadger.io
 api.raygun.com
 logging.googleapis.com
