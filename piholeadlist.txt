@@ -81,3 +81,16 @@ freecontent.bid
 1q2w3.fun
 candid.zone
 lewd.ninja
+
+#new
+api.honeybadger.io
+api.raygun.com
+logging.googleapis.com
+trace.googleapis.com
+errorreporting.googleapis.com
+connect.facebook.net
+graph.facebook.com
+pixel.quora.com
+ads.vk.com
+api.vk.com
+ngfts.lge.com
