@@ -88,8 +88,6 @@ api.raygun.com
 logging.googleapis.com
 trace.googleapis.com
 errorreporting.googleapis.com
-connect.facebook.net
-graph.facebook.com
 pixel.quora.com
 ads.vk.com
 api.vk.com
