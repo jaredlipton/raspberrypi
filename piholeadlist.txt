@@ -94,6 +94,5 @@ api.vk.com
 ngfts.lge.com
 fingerprintjs.com
 redirector.googlevideo.com
-youtubei.googleapis.com
 weather-analytics-events.apple.com
 samsung-com.112.2o7.net
