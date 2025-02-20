@@ -1,4 +1,4 @@
-no#Created by Jared Lipton
+#Created by Jared Lipton
 #Personal adlist for use with Pi-hole
 #Last Update: 2/20/2025
 
