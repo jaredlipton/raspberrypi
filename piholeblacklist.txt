@@ -1,6 +1,6 @@
 no#Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 2/18/2025
+#Last Update: 2/20/2025
 
 #Samsung SmartTV
 logs.netflix.com
