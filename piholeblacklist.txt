@@ -1,6 +1,6 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 2/24/2025
+#Last Update: 3/1/2025
 
 #General
 api2.amplitude.com
@@ -85,18 +85,3 @@ freecontent.bid
 1q2w3.fun
 candid.zone
 lewd.ninja
-
-#via obfusgated.com
-##api.honeybadger.io
-#api.raygun.com
-#logging.googleapis.com
-#trace.googleapis.com
-#errorreporting.googleapis.com
-#pixel.quora.com
-#ads.vk.com
-#api.vk.com
-#ngfts.lge.com
-#fingerprintjs.com
-#redirector.googlevideo.com
-#weather-analytics-events.apple.com
-#samsung-com.112.2o7.net
