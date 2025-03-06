@@ -1,10 +1,11 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 3/1/2025
+#Last Update: 3/6/2025
 
 #General
 api2.amplitude.com
 api.segment.io
+browser-intake-datadoghq.com
 
 #Samsung SmartTV
 logs.netflix.com
