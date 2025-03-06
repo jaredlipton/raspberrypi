@@ -5,7 +5,6 @@
 #General
 api2.amplitude.com
 api.segment.io
-browser-intake-datadoghq.com
 
 #Samsung SmartTV
 logs.netflix.com
