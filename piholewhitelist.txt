@@ -1,8 +1,9 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 2/22/2025
+#Last Update: 3/17/2025
 
 mandrillapp.com
 t.co
 get-bx.g.aaplimg.com
 basicappleguy.com
+mask.icloud.com
