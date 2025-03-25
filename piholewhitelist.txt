@@ -6,7 +6,7 @@ mandrillapp.com
 t.co
 get-bx.g.aaplimg.com
 basicappleguy.com
-(\.|^)noip\.com$
+(\.|^)no-ip\.com$
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
