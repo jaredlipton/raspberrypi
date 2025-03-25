@@ -12,3 +12,4 @@ basicappleguy.com
 mask-api.fe2.apple-dns.net
 mask.icloud.com
 apple-relay.apple.com
+apple-relay.mask.apple-dns.net
