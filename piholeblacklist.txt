@@ -1,6 +1,6 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 3/6/2025
+#Last Update: 7/25/2025
 
 #General
 api2.amplitude.com
@@ -12,6 +12,9 @@ spectrum.s3.amazonaws.com
 sastv.samsungqbe.com
 _xmpp-client._tcp.scs.samsungqbe.com
 ocfconnect-shard-na03-useast2.samsungiotcloud.com
+samsungcloudsolution.com
+samsungrm.net
+samsungelectronics.com
 
 #Crypto Miners
 #From https://gist.githubusercontent.com/jordan-wright/95af062378e9a7436b94f893d195bcd2/raw/2f51a9b8f8bf06cfe1f24f98263da706d7e85035/cryptocurrency_mining_list.txt
