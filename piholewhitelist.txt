@@ -1,6 +1,6 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 8/19/2025
+#Last Update: 11/2/2025
 
 mandrillapp.com
 t.co
@@ -8,6 +8,8 @@ get-bx.g.aaplimg.com
 basicappleguy.com
 (\.|^)no-ip\.com$
 post.spmailtechno.com
+#RMNB
+d37j8pfxu2iogi.cloudfront.net
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
