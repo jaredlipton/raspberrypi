@@ -8,7 +8,7 @@ get-bx.g.aaplimg.com
 basicappleguy.com
 post.spmailtechno.com
 public-api.fandango.com
-https://www.fandango.com
+fandango.com
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
