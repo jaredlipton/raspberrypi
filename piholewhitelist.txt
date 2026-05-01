@@ -8,8 +8,8 @@ get-bx.g.aaplimg.com
 basicappleguy.com
 post.spmailtechno.com
 www.fandango.com
-www.fandango.com
 images.fandango.com
+tickets.fandango.com
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
