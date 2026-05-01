@@ -1,13 +1,15 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 4/29/2026
+#Last Update: 4/30/2026
 
 mandrillapp.com
 t.co
 get-bx.g.aaplimg.com
 basicappleguy.com
 post.spmailtechno.com
-public-api.fandango.com
+www.fandango.com
+www.fandango.com
+images.fandango.com
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
