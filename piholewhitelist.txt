@@ -1,6 +1,6 @@
 #Created by Jared Lipton
 #Personal adlist for use with Pi-hole
-#Last Update: 4/30/2026
+#Last Update: 5/19/2026
 
 mandrillapp.com
 t.co
@@ -10,6 +10,7 @@ post.spmailtechno.com
 www.fandango.com
 images.fandango.com
 tickets.fandango.com
+cws.conviva.com
 
 #Apple Visual Intelligence
 mask-api.fe2.apple-dns.net
